@@ -1,0 +1,16 @@
+{
+"users":{
+"1":{
+"name": "Tony",
+"gender": "male",
+"date": "02/02/2020",
+"type": "fever"
+},
+"2":{
+"name": "Emi",
+"gender": "female",
+"date": "02/03/2020",
+"type": "skin"
+}
+}
+}
